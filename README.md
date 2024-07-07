@@ -12,6 +12,6 @@
   3. JavaScript: Logic and interaction with the SpeechSynthesis API.
 
 # How to Use
-  1. Clone the repository: git clone https://github.com/your-username/text-to-speech.git
+  1. Clone the repository: git clone https://github.com/uttamt09/Text_to_Speech
   2. Open index.html in your web browser.
   3. Enter text into the input field and use the controls to manipulate playback.
