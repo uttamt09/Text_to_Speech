@@ -6,9 +6,11 @@
   2. Speech Synthesis: Utilizes the browser's built-in SpeechSynthesis API for text-to-speech functionality.
   3. Styling: Responsive design with CSS for a user-friendly interface.
 
-![image](https://github.com/uttamt09/Text_to_Speech/assets/139229602/5077597d-4029-48f4-9077-5b533167acfc)
+![image](https://github.com/uttamt09/Text_to_Speech/assets/139229602/aaed240c-5afd-4440-bc93-9afacb0ba928)
 
-![image](https://github.com/uttamt09/Text_to_Speech/assets/139229602/b2d600b8-bb90-4166-b008-83ae47c35635)
+
+![image](https://github.com/uttamt09/Text_to_Speech/assets/139229602/d20e7650-3764-461a-abfa-3a61f1347ce9)
+
 
 
 
