@@ -1,6 +1,9 @@
 # Text-to-Speech Project
   This project implements a simple Text-to-Speech (TTS) application using HTML, JavaScript, and CSS.
 
+# Live website
+https://uttamt09.github.io/Text_to_Speech/
+
 # Features
   1. Input Text: Enter the text you want to convert to speech.
   2. Speech Synthesis: Utilizes the browser's built-in SpeechSynthesis API for text-to-speech functionality.
